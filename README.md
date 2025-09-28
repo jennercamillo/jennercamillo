@@ -18,3 +18,8 @@ Lidero projetos que unem vendas B2B, inteligência comercial e estratégias digi
 
 ## 📊 Estatísticas GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jennercamillo&show_icons=true&theme=dracula)
+
+---
+
+## 👀 Contador de Visitas
+![Visitors](https://komarev.com/ghpvc/?username=jennercamillo&color=blue)
