@@ -1,6 +1,6 @@
 Lidero projetos que unem vendas B2B, inteligência comercial e estratégias digitais para transformar a forma como empresas se conectam e crescem.  
 
-📫 Conecte-se comigo:  
+## Conecte-se comigo:  
 <div align="left">
   <a href="https://www.linkedin.com/in/jennercamillo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-jennercamillo-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn jennercamillo" />
@@ -9,7 +9,7 @@ Lidero projetos que unem vendas B2B, inteligência comercial e estratégias digi
 
 ---
 
-## 🚀 Principais Atividades
+## Principais Atividades
 - Estratégias de prospecção B2B com Sales Navigator  
 - Inteligência Comercial - Radar 8 
 - Projetos de Inovação: Studio 8 
