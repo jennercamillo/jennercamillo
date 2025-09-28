@@ -10,7 +10,7 @@ Lidero projetos que unem vendas B2B, inteligência comercial e estratégias digi
 ---
 
 ## Principais Atividades
-- Estratégias de prospecção B2B com Sales Navigator  
+- Estratégias de prospecção B2B com Sales Navigator + Bússola 8
 - Inteligência Comercial - Radar 8 
 - Projetos de Inovação: Studio 8 
 
